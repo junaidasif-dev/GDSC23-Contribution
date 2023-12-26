@@ -1,0 +1,9 @@
+I take suggestion from ChatGPT for entities and their attributes.
+
+Key-Reseach topics:
+	How to create ER-Diagram?
+	Cardinalities
+	Constraints
+	Concept of primary, foreign & composite keys.
+	Difference between identifying & non-identifying 	relationships.
+	Normalization of database
